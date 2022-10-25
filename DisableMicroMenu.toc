@@ -1,0 +1,6 @@
+## Interface: 100000
+## Title: Disable Micro Menu and Bag Frame
+## Notes: Removes the micro menu and bag frame that appear in the bottom-right of the screen.
+## Author: Mithindis
+
+DisableMicroMenu.lua

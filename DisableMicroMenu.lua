@@ -1,0 +1,1 @@
+MicroButtonAndBagsBar:Hide();
