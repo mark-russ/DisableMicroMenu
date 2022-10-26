@@ -9,3 +9,8 @@ end
 
 ContainerFrameCombinedBags:HookScript("OnShow", AnchorToBottomRight);
 ContainerFrame1:HookScript("OnShow", AnchorToBottomRight);
+
+-- Reposition the Queue indicator button.
+QueueStatusButton:SetParent(UIParent);
+QueueStatusButton:ClearAllPoints();
+AnchorToBottomRight(QueueStatusButton);
